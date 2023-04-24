@@ -8,3 +8,12 @@
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurFerrazz&theme=chartreuse-dark)
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurFerrazz}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFF00&height=120&section=footer"/>
