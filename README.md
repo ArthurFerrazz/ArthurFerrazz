@@ -7,7 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFerrazz&layout=compact&hide_border=true&title_color=7fff00&text_color=fff&bg_color=000" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ArthurFerrazz&theme=chartreuse-dark)
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
